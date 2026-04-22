@@ -1,0 +1,238 @@
+{
+  "Tesla": {
+    "Model 3": {
+      "battery_capacity_kwh": 55,
+      "max_dc_charge_kw": 170
+    },
+    "Model S": {
+      "battery_capacity_kwh": 100,
+      "max_dc_charge_kw": 250
+    },
+    "Model Y": {
+      "battery_capacity_kwh": 75,
+      "max_dc_charge_kw": 210
+    }
+  },
+  "VW": {
+    "ID.3": {
+      "battery_capacity_kwh": 58,
+      "max_dc_charge_kw": 120
+    },
+    "ID.3 Pro": {
+      "battery_capacity_kwh": 58,
+      "max_dc_charge_kw": 120,
+      "consumption_kwh_100km": 15.5,
+      "range_km": 426
+    },
+    "ID.4": {
+      "battery_capacity_kwh": 77,
+      "max_dc_charge_kw": 135
+    },
+    "ID.4 Pro": {
+      "battery_capacity_kwh": 77,
+      "max_dc_charge_kw": 125,
+      "consumption_kwh_100km": 16.9,
+      "range_km": 522
+    },
+    "ID.Buzz": {
+      "battery_capacity_kwh": 82,
+      "max_dc_charge_kw": 170,
+      "consumption_kwh_100km": 21.7,
+      "range_km": 400
+    }
+  },
+  "Hyundai": {
+    "Ioniq 5": {
+      "battery_capacity_kwh": 77.4,
+      "max_dc_charge_kw": 220,
+      "consumption_kwh_100km": 17.9,
+      "range_km": 507
+    },
+    "Ioniq 6": {
+      "battery_capacity_kwh": 77.4,
+      "max_dc_charge_kw": 233,
+      "consumption_kwh_100km": 14.9,
+      "range_km": 610
+    },
+    "Kona Electric": {
+      "battery_capacity_kwh": 64,
+      "max_dc_charge_kw": 77,
+      "consumption_kwh_100km": 14.7,
+      "range_km": 484
+    }
+  },
+  "Renault": {
+    "Zoe": {
+      "battery_capacity_kwh": 52,
+      "max_dc_charge_kw": 50
+    },
+    "Megane E-Tech": {
+      "battery_capacity_kwh": 60,
+      "max_dc_charge_kw": 130,
+      "consumption_kwh_100km": 15.5,
+      "range_km": 470
+    },
+    "Zoe ZE50": {
+      "battery_capacity_kwh": 52,
+      "max_dc_charge_kw": 50,
+      "consumption_kwh_100km": 17.2,
+      "range_km": 395
+    }
+  },
+  "Volkswagen": {
+    "ID.3 Pro": {
+      "battery_capacity_kwh": 58,
+      "max_dc_charge_kw": 120,
+      "consumption_kwh_100km": 15.5,
+      "range_km": 426
+    },
+    "ID.4 Pro": {
+      "battery_capacity_kwh": 77,
+      "max_dc_charge_kw": 125,
+      "consumption_kwh_100km": 16.9,
+      "range_km": 522
+    },
+    "ID.Buzz": {
+      "battery_capacity_kwh": 82,
+      "max_dc_charge_kw": 170,
+      "consumption_kwh_100km": 21.7,
+      "range_km": 400
+    }
+  },
+  "BMW": {
+    "i4 eDrive40": {
+      "battery_capacity_kwh": 83.9,
+      "max_dc_charge_kw": 205,
+      "consumption_kwh_100km": 16.0,
+      "range_km": 590
+    },
+    "iX3": {
+      "battery_capacity_kwh": 80,
+      "max_dc_charge_kw": 150,
+      "consumption_kwh_100km": 18.5,
+      "range_km": 460
+    },
+    "i7 xDrive60": {
+      "battery_capacity_kwh": 105.7,
+      "max_dc_charge_kw": 195,
+      "consumption_kwh_100km": 19.6,
+      "range_km": 625
+    },
+    "i3 42.2": {
+      "battery_capacity_kwh": 42.2,
+      "max_dc_charge_kw": 50
+    }
+  },
+  "Mercedes-Benz": {
+    "EQA 250": {
+      "battery_capacity_kwh": 66.5,
+      "max_dc_charge_kw": 100,
+      "consumption_kwh_100km": 17.7,
+      "range_km": 429
+    },
+    "EQB 350": {
+      "battery_capacity_kwh": 66.5,
+      "max_dc_charge_kw": 100,
+      "consumption_kwh_100km": 18.1,
+      "range_km": 419
+    },
+    "EQS 580": {
+      "battery_capacity_kwh": 120,
+      "max_dc_charge_kw": 200,
+      "consumption_kwh_100km": 19.8,
+      "range_km": 676
+    }
+  },
+  "Audi": {
+    "Q4 e-tron": {
+      "battery_capacity_kwh": 82,
+      "max_dc_charge_kw": 125,
+      "consumption_kwh_100km": 18.2,
+      "range_km": 520
+    },
+    "Q8 e-tron": {
+      "battery_capacity_kwh": 114,
+      "max_dc_charge_kw": 170,
+      "consumption_kwh_100km": 21.0,
+      "range_km": 580
+    },
+    "e-tron GT": {
+      "battery_capacity_kwh": 93.4,
+      "max_dc_charge_kw": 270,
+      "consumption_kwh_100km": 20.8,
+      "range_km": 488
+    }
+  },
+  "Kia": {
+    "EV6": {
+      "battery_capacity_kwh": 77.4,
+      "max_dc_charge_kw": 240,
+      "consumption_kwh_100km": 16.6,
+      "range_km": 528
+    },
+    "Niro EV": {
+      "battery_capacity_kwh": 64.8,
+      "max_dc_charge_kw": 85,
+      "consumption_kwh_100km": 15.9,
+      "range_km": 460
+    }
+  },
+  "Peugeot": {
+    "e-208": {
+      "battery_capacity_kwh": 54,
+      "max_dc_charge_kw": 100,
+      "consumption_kwh_100km": 15.1,
+      "range_km": 400
+    },
+    "e-2008": {
+      "battery_capacity_kwh": 54,
+      "max_dc_charge_kw": 100,
+      "consumption_kwh_100km": 16.0,
+      "range_km": 406
+    }
+  },
+  "Skoda": {
+    "Enyaq iV 80": {
+      "battery_capacity_kwh": 77,
+      "max_dc_charge_kw": 135,
+      "consumption_kwh_100km": 16.8,
+      "range_km": 520
+    }
+  },
+  "Porsche": {
+    "Taycan 4S": {
+      "battery_capacity_kwh": 93.4,
+      "max_dc_charge_kw": 270,
+      "consumption_kwh_100km": 20.3,
+      "range_km": 463
+    }
+  },
+  "Nissan": {
+    "Leaf e+": {
+      "battery_capacity_kwh": 62,
+      "max_dc_charge_kw": 100,
+      "consumption_kwh_100km": 17.5,
+      "range_km": 385
+    },
+    "Ariya 87kWh": {
+      "battery_capacity_kwh": 87,
+      "max_dc_charge_kw": 130,
+      "consumption_kwh_100km": 18.0,
+      "range_km": 520
+    }
+  },
+  "BYD": {
+    "Atto 3": {
+      "battery_capacity_kwh": 60.5,
+      "max_dc_charge_kw": 88,
+      "consumption_kwh_100km": 15.6,
+      "range_km": 420
+    },
+    "Han EV": {
+      "battery_capacity_kwh": 85.4,
+      "max_dc_charge_kw": 120,
+      "consumption_kwh_100km": 18.5,
+      "range_km": 521
+    }
+  }
+}

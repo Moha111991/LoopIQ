@@ -34,6 +34,10 @@ attached_assets/
 prometheus-*.darwin-amd64/
 prometheus-*.tar.gz
 
+# Keep required frontend seed data in repo
+!frontend/src/data/
+!frontend/src/data/cars.json
+
 # Konfig lokal (Beispiel committen)
 config/config.yamlconfig/config.local.backup
 config/config.local.backup
